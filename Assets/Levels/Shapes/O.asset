@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa6ec3eb46a242cda32f7d2b21c84ed6, type: 3}
+  m_Name: O
+  m_EditorClassIdentifier: 
+  Symbol: O
+  DrawRoads:
+  - Points:
+    - {x: -2.5, y: 0, z: 0}
+    - {x: 0, y: 2.5, z: 0}
+    - {x: 2.5, y: 0, z: 0}
+    - {x: 0, y: -2.5, z: 0}
+    - {x: -2.5, y: 0, z: 0}
+  Parts:
+  - key: {fileID: 21300000, guid: 3efc72bf16adb5e419b388c848181895, type: 3}
+    value: {fileID: 1600750673321730691, guid: 77523ea573321ce48ae7a507c89a0659, type: 3}
+  Hints:
+  - key: {fileID: 21300000, guid: a0469cc766bf863479850db91362e5ff, type: 3}
+    value: {fileID: 1352893719551392245, guid: 97ccc26be8360ac4e9932d44903d75e3, type: 3}
+  FullImage: {fileID: 21300000, guid: 3efc72bf16adb5e419b388c848181895, type: 3}
+  TaskAudio: {fileID: 8300000, guid: facda8198b3a82c47b5bd241d17090fa, type: 3}

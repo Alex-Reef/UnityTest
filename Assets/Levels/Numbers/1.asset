@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa6ec3eb46a242cda32f7d2b21c84ed6, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  Symbol: 1
+  DrawRoads:
+  - Points:
+    - {x: -0.7, y: 0, z: 0}
+    - {x: 0.7, y: 1.7, z: 0}
+  - Points:
+    - {x: 0.4, y: 1.7, z: 0}
+    - {x: 0.4, y: -1.8, z: 0}
+  Parts:
+  - key: {fileID: 21300000, guid: 57f4451c5d23f024b901c9d494031ffd, type: 3}
+    value: {fileID: 1600750673321730691, guid: e7fabe144b0953443b487d828405b851, type: 3}
+  - key: {fileID: 21300000, guid: bf6e8ea9e7050694088b1e7748a41bf4, type: 3}
+    value: {fileID: 4503535763809298132, guid: 08c78a64d7baae54db25b9398bea8c37, type: 3}
+  Hints:
+  - key: {fileID: 21300000, guid: 5aa927f0ba39fef499e05350ab4c34cb, type: 3}
+    value: {fileID: 1352893719551392245, guid: 97ccc26be8360ac4e9932d44903d75e3, type: 3}
+  - key: {fileID: 21300000, guid: d550c54a09b4e294abec11181596e2ce, type: 3}
+    value: {fileID: 1352893719551392245, guid: 97ccc26be8360ac4e9932d44903d75e3, type: 3}
+  FullImage: {fileID: 21300000, guid: 1d1c640804af09245aa74191d4b9bf00, type: 3}
+  TaskAudio: {fileID: 8300000, guid: facda8198b3a82c47b5bd241d17090fa, type: 3}
